@@ -111,6 +111,7 @@
 .pinnedElement > .mainContainer > #content > #header > #labelContainer > #titleLabel {
     font-size : 14px;
     color: #c1c1c1;
+    margin-left: 4px;
 }
 
 .pinnedElement > .mainContainer > #content > #header > #labelContainer > #subTitleLabel {
